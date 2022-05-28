@@ -1,7 +1,7 @@
 [
   {
     "name": "NotDot",
-    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/1.png"
+    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/1replace.png"
   },
   {
     "name": "12L",
@@ -18,5 +18,9 @@
   {
     "name": "NT3",
     "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/5.png"
+  },
+  {
+    "name": "NT4",
+    "url": "https://raw.githubusercontent.com/theovilardo/nthk/main/6.png"
   }
 ]
